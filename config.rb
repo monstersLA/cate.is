@@ -31,6 +31,7 @@ end
 
 page "/feed.xml", layout: false
 
+page "*", :layout => :article_layout
 ###
 # Compass
 ###
