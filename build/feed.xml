@@ -21,10 +21,22 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-07-23T17:00:00-07:00</updated>
+  <updated>2014-07-27T19:51:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Test</title>
+    <link rel="alternate" href="http://blog.url.com/2014/07/28/test.html"/>
+    <id>http://blog.url.com/2014/07/28/test.html</id>
+    <published>2014-07-27T19:51:00-07:00</published>
+    <updated>2014-07-27T19:51:30-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">
+</content>
+  </entry>
   <entry>
     <title>To the North</title>
     <link rel="alternate" href="http://blog.url.com/2014/07/24/to-the-north.html"/>
@@ -85,6 +97,7 @@
     <!--<aside>
       <h2>Recent Articles</h2>
       <ol>
+          <li><a href="/2014/07/28/test.html">Test</a> <span>Jul 28</span></li>
           <li><a href="/2014/07/24/to-the-north.html">To the North</a> <span>Jul 24</span></li>
       </ol>
 
@@ -95,7 +108,7 @@
 
       <h2>By Year</h2>
       <ol>
-          <li><a href="/2014.html">2014 (1)</a></li>
+          <li><a href="/2014.html">2014 (2)</a></li>
       </ol>
     </aside>-->
   </body>
