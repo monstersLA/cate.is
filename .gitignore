@@ -1,0 +1,12 @@
+._*
+/build
+/.bundle
+bundle
+/.cache
+.DS_Store
+.DS_Store?
+Gemfile.lock
+.ruby-version
+/.sass
+/.sass-cache
+*.scssc
